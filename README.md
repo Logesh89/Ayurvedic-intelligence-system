@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 5) Run
 ```bash
-cd VedaPharma
+cd Ayurvedic-intelligence-system-main
 ```
 6) Run
 ```bash
@@ -22,4 +22,4 @@ streamlit run main.py
 # Tech Stacks:
 1) Python
 2) Streamlit
-3) Machine Learning tools(numpy, pandas etc)
+3) Machine Learning tools(numpy, pandas, XG Boost Algorithm, ANN Algorithm)
